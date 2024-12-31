@@ -1,4 +1,4 @@
-# Movie App
+# SceneOne
 
 This is a movie app built with React, Firebase, and Chakra UI. It allows users to search for movies, browse through popular movies, and add movies to their watchlist.
 
